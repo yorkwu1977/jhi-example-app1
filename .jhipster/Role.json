@@ -1,0 +1,18 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "roleName",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180718063815",
+    "dto": "mapstruct",
+    "searchEngine": false,
+    "service": "serviceClass",
+    "entityTableName": "role",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pagination"
+}
